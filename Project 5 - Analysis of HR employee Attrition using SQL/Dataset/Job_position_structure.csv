@@ -1,0 +1,33 @@
+﻿Department,JobLevel,JobRole
+Corporate Functions,L1,Administrative Assistant
+Corporate Functions,L2,Administrative Coordinator
+Corporate Functions,L3,Administrative Specialist
+Corporate Functions,L4,Administrative Analyst
+Corporate Functions,L5,Administrative Manager
+Corporate Functions,L6,Director
+Corporate Functions,L7,Vice President (VP) or Chief Officer 
+Marketing,L1,Coordinator
+Marketing,L2,Specialist
+Marketing,L3,Marketing Analyst
+Marketing,L4,Marketing Manager
+Marketing,L5,Director of Marketing
+Delivery,L1,Service Delivery Analyst
+Delivery,L2,Senior Service Delivery Analyst
+Delivery,L3,Lead Service Delivery Analyst
+Delivery,L4,Service Delivery Manager
+Delivery,L5,Director of Service Delivery
+Product,L1,Product Coordinator
+Product,L2,Associate Product Manager
+Product,L3,Product Manager
+Product,L4,Senior Product Manager
+Product,L5,Director of Product Management
+Sales,L1,Sales Development Representative
+Sales,L2,Account Executive
+Sales,L3,Senior Account Executive
+Sales,L4,Sales Manager
+Sales,L5,Director of Sales
+HR,L1,HR Coordinator
+HR,L2,HR Generalist
+HR,L3,Senior HR Generalist
+HR,L4,HR Manager
+HR,L5,Director of Human Resources
